@@ -1,0 +1,54 @@
+﻿@model BibliotecaMetropolis.Models.MaterialesBiblioteca
+
+@{
+    ViewData["Title"] = "Agregar Material";
+}
+<img src="~/biblio1.jpg" alt="Logo Biblioteca" class="logo-esquina" />
+
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">➕ Agregar Nuevo Material</h2>
+
+    <form asp-action="Crear" method="post">
+        <div class="mb-3">
+            <label for="TipoMaterial" class="form-label">Tipo de Material</label>
+            <select asp-for="TipoMaterial" class="form-select" required>
+                <option value="">-- Seleccione --</option>
+                <option>Libro</option>
+                <option>Enciclopedia</option>
+                <option>Revista</option>
+                <option>Tesis</option>
+                <option>DVD</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Titulo" class="form-label">Título</label>
+            <input asp-for="Titulo" class="form-control" required />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Autor" class="form-label">Autor</label>
+            <input asp-for="Autor" class="form-control" required />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="AñoPublicacion" class="form-label">Año de Publicación</label>
+            <input asp-for="AñoPublicacion" type="number" class="form-control" required />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="PrecioUnitario" class="form-label">Precio Unitario</label>
+            <input asp-for="PrecioUnitario" type="number" step="0.01" class="form-control" required />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CantidadUnidades" class="form-label">Cantidad</label>
+            <input asp-for="CantidadUnidades" type="number" class="form-control" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Guardar</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>
+

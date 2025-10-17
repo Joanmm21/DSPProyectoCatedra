@@ -1,0 +1,44 @@
+﻿@model IEnumerable<BibliotecaMetropolis.Models.MaterialesBiblioteca>
+
+@{
+    ViewData["Title"] = "Ver Materiales agregados";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">📖 Materiales Agregados</h2>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-striped table-bordered align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>Tipo</th>
+                    <th>Título</th>
+                    <th>Autor</th>
+                    <th>Año</th>
+                    <th>Precio Unitario</th>
+                    <th>Cantidad</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.TipoMaterial</td>
+                        <td>@item.Titulo</td>
+                        <td>@item.Autor</td>
+                        <td>@item.AñoPublicacion</td>
+                        <td>$@item.PrecioUnitario</td>
+                        <td>@item.CantidadUnidades</td>
+                        <td>$@item.PrecioTotal</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p class="alert alert-info text-center">No hay materiales registrados.</p>
+    }
+</div>

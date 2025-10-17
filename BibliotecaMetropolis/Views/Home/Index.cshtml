@@ -1,0 +1,101 @@
+﻿@model IEnumerable<BibliotecaMetropolis.Models.MaterialesBiblioteca>
+
+@{
+    ViewData["Title"] = "Listado de Materiales";
+}
+<img src="~/biblio1.jpg" alt="Logo Biblioteca" class="logo-esquina" />
+
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">📚 Listado de Materiales</h2>
+    <link rel="stylesheet" href="~/css/site.css" />
+
+
+    <!-- Barra de búsqueda -->
+    <form method="get" asp-action="Index" class="d-flex mb-3">
+        <input type="text" name="busqueda" value="@ViewBag.Busqueda" class="form-control me-2" placeholder="Buscar por título o autor..." />
+        <button type="submit" class="btn btn-outline-primary">Buscar</button>
+    </form>
+
+    <!-- Botón para que veamos los materiales -->
+    <div class="mb-3 text-start"> 
+        <a class="btn btn-success" href="/Materiales/Ver">  Ver Materiales disponibles</a>
+    </div>
+    
+
+
+    <!-- Botón para agregar -->
+    <div class="mb-3 text-end">
+        <a class="btn btn-success" href="/Materiales/Crear">➕ Agregar Nuevo Material</a>
+    </div>
+
+    <!-- Tabla de resultados -->
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-striped table-bordered align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>Título</th>
+                    <th>Autor</th>
+                    <th>Año</th>
+                    <th>Precio Unitario</th>
+                    <th>Cantidad</th>
+                    <th>Total</th>
+                    <th style="width: 150px;">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Titulo</td>
+                        <td>@item.Autor</td>
+                        <td>@item.AñoPublicacion</td>
+                        <td>$@item.PrecioUnitario</td>
+                        <td>@item.CantidadUnidades</td>
+                        <td>$@item.PrecioTotal</td>
+                        <td>
+                            <a href="/Materiales/Editar/@item.Id" class="btn btn-sm btn-warning">✏️ Editar</a>
+                            <a href="/Materiales/Eliminar/@item.Id" class="btn btn-sm btn-danger">🗑️ Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p class="alert alert-info text-center">¡Todos los materiales a tu alcance!.</p>
+
+
+    }
+   
+</div>
+<!-- espacio de contacto -->
+<div class="contacto-flotante">
+    <div class="contacto-header">📞 Contacto</div>
+    <div class="contacto-cuerpo">
+        <p><strong>Biblioteca Metrópolis</strong></p>
+        <p>Tel: (506) 2222-3333</p>
+        <p>Email: info@bibliotecametropolis.com</p>
+    </div>
+    <!-- espacio para comentarios -->
+    <div class="comentario-flotante">
+        <div class="comentario-header">💭 Comentarios</div>
+        <div class="comentario-cuerpo">
+            <form id="formComentario">
+                <div class="form-group mb-2">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" class="form-control" placeholder="Tu nombre" required>
+                </div>
+                <div class="form-group mb-2">
+                    <label for="comentario">Comentario:</label>
+                    <textarea id="comentario" class="form-control" rows="3" placeholder="Escribe tu comentario..." required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary btn-sm w-100">Enviar</button>
+                <div id="mensajeEnviado" style="display:none; color:green; margin-top:5px; font-weight:bold;">
+                    ✅ Mensaje enviado
+                </div>
+            </form>
+        </div>
+    </div>
