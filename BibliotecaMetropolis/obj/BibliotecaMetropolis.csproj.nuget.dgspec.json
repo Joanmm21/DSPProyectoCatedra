@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\BibliotecaMetropolis.csproj": {}
+    "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\BibliotecaMetropolis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\BibliotecaMetropolis.csproj": {
+    "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\BibliotecaMetropolis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\BibliotecaMetropolis.csproj",
+        "projectUniqueName": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\BibliotecaMetropolis.csproj",
         "projectName": "BibliotecaMetropolis",
-        "projectPath": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\BibliotecaMetropolis.csproj",
-        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\obj\\",
+        "projectPath": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\BibliotecaMetropolis.csproj",
+        "packagesPath": "C:\\Users\\joanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\joanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

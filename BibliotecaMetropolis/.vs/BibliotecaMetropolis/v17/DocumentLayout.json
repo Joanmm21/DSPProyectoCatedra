@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\",
+  "WorkspaceRootPath": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\models\\materialesbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\models\\materialesbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:models\\materialesbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\materiales\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\materiales\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:views\\materiales\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\materiales\\ver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\materiales\\ver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:views\\materiales\\ver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\controllers\\materialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\controllers\\materialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:controllers\\materialescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\home\\dise\u00F1ada.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\home\\dise\u00F1ada.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:views\\home\\dise\u00F1ada.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\views\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:views\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\hecto\\onedrive\\desktop\\dspproyectocatedra\\bibliotecametropolis\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|c:\\users\\joanc\\desktop\\dspproyectocatedra\\bibliotecametropolis\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{FF92CF53-9D16-4DD9-A981-527A5511A56C}|BibliotecaMetropolis.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -64,24 +64,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Materiales\\Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Materiales\\Crear.cshtml",
               "RelativeDocumentMoniker": "Views\\Materiales\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Materiales\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Materiales\\Crear.cshtml",
               "RelativeToolTip": "Views\\Materiales\\Crear.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAqwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T23:16:46.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T23:16:46.284Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwE0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-14T19:48:13.772Z",
               "EditorCaption": ""
@@ -90,131 +89,121 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Ver.cshtml",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Materiales\\Ver.cshtml",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Materiales\\Ver.cshtml",
               "RelativeDocumentMoniker": "Views\\Materiales\\Ver.cshtml",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Materiales\\Ver.cshtml",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Materiales\\Ver.cshtml",
               "RelativeToolTip": "Views\\Materiales\\Ver.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T23:43:03.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T23:43:03.92Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MaterialesBiblioteca.cs",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Models\\MaterialesBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Models\\MaterialesBiblioteca.cs",
               "RelativeDocumentMoniker": "Models\\MaterialesBiblioteca.cs",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Models\\MaterialesBiblioteca.cs",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Models\\MaterialesBiblioteca.cs",
               "RelativeToolTip": "Models\\MaterialesBiblioteca.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T19:56:30.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T19:56:30.719Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAABsAAAAAAAAAAAAAwDkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-14T21:35:26.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T21:35:26.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MaterialesController.cs",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Controllers\\MaterialesController.cs",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Controllers\\MaterialesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MaterialesController.cs",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Controllers\\MaterialesController.cs",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Controllers\\MaterialesController.cs",
               "RelativeToolTip": "Controllers\\MaterialesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T23:06:34.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T23:06:34.357Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Dise\u00F1ada.cshtml",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Dise\u00F1ada.cshtml",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Dise\u00F1ada.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Dise\u00F1ada.cshtml",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Dise\u00F1ada.cshtml",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Dise\u00F1ada.cshtml",
               "RelativeToolTip": "Views\\Home\\Dise\u00F1ada.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T19:25:58.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T19:25:58.624Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T19:25:28.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T19:25:28.171Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T18:52:15.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T18:52:15.987Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T19:18:23.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T19:18:23.312Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Crear.cshtml",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Crear.cshtml",
               "RelativeDocumentMoniker": "Views\\Crear.cshtml",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\Views\\Crear.cshtml",
               "RelativeToolTip": "Views\\Crear.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T23:04:14.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T23:04:14.601Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\joanc\\Desktop\\DSPProyectoCatedra\\BibliotecaMetropolis\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-16T20:05:22.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T20:05:22.43Z"
             }
           ]
         }
